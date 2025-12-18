@@ -1,4 +1,4 @@
-package com.example.helloworld.config;
+package com.example.draftlab.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
